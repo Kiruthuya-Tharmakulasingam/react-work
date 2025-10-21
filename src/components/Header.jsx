@@ -19,8 +19,7 @@ function Header() {
 const style = {
     container : {
         backgroundColor : "#ccc",
-        textAlign : "center",
-        margin : "0"
+        textAlign : "center"
     }
 }
 
